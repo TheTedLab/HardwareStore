@@ -1,0 +1,434 @@
+[
+  {
+    "model": "products.product",
+    "pk": 15,
+    "fields": {
+      "name": "Palit NVIDIA GeForce RTX 4070",
+      "description": "Архитектура Ada Lovelace обеспечивает скорость и производительность при обработке графических ресурсов.",
+      "price": "74280.00",
+      "quantity": 10,
+      "image": "products_images/Palit_NVIDIA_GeForce_RTX_4070.jpg",
+      "category": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 16,
+    "fields": {
+      "name": "MSI NVIDIA GeForce RTX 4080",
+      "description": "Модель обеспечивает возможность использования почти любых игр на максимальных настройках графики.",
+      "price": "159999.00",
+      "quantity": 15,
+      "image": "products_images/MSI_NVIDIA_GeForce_RTX_4080_Super.jpg",
+      "category": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 17,
+    "fields": {
+      "name": "GIGABYTE GeForce RTX 4090",
+      "description": "Видеокарта предлагает самую высокую производительность и широкие графические возможности при поддержке искусственного интеллекта.",
+      "price": "225999.00",
+      "quantity": 10,
+      "image": "products_images/Gigabyte_NVIDIA_GeForce_RTX_4090.jpg",
+      "category": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 19,
+    "fields": {
+      "name": "Sapphire AMD Radeon RX 7700XT",
+      "description": "Производительность видеокарты позволяет использовать большинство игр на средних или высоких настройках.",
+      "price": "70560.00",
+      "quantity": 20,
+      "image": "products_images/Sapphire_AMD_Radeon_RX_7700XT.jpg",
+      "category": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 20,
+    "fields": {
+      "name": "PowerColor AMD Radeon RX 7800XT",
+      "description": "Видеокарта незаменима для работы с приложениями, требующими высокой производительности.",
+      "price": "80450.00",
+      "quantity": 15,
+      "image": "products_images/PowerColor_AMD_Radeon_RX_7800XT_njrs8FA.jpg",
+      "category": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 21,
+    "fields": {
+      "name": "ASUS AMD Radeon RX 7900XT",
+      "description": "Разработана для обеспечения производительности в играх и профессиональных программах.",
+      "price": "114870.00",
+      "quantity": 10,
+      "image": "products_images/ASUS_AMD_Radeon_RX_7900XT.jpg",
+      "category": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 22,
+    "fields": {
+      "name": "Intel Core i5-12400F",
+      "description": "Отличный выбор для пользователей, желающих собрать игровой ПК или производительный универсальный компьютер.",
+      "price": "12499.00",
+      "quantity": 20,
+      "image": "products_images/Intel_Core_i5_12400F.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 23,
+    "fields": {
+      "name": "Intel Core i5-13600KF",
+      "description": "Процессор, обеспечивающий высокую скорость работы при решении любых задач.",
+      "price": "28499.00",
+      "quantity": 15,
+      "image": "products_images/Intel_Core_i5_13600KF.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 24,
+    "fields": {
+      "name": "Intel Core i9-14900K",
+      "description": "Модель предназначена для сборки мощных игровых компьютеров и высокопроизводительных универсальных системных блоков.",
+      "price": "67999.00",
+      "quantity": 15,
+      "image": "products_images/Intel_Core_i9_14900K.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 25,
+    "fields": {
+      "name": "AMD Ryzen 5 7500F",
+      "description": "Модель с 6 производительными ядрами и трехуровневым кэшем.",
+      "price": "18499.00",
+      "quantity": 25,
+      "image": "products_images/AMD_Ryzen_5_7500F.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 26,
+    "fields": {
+      "name": "AMD Ryzen 7 5700X3D",
+      "description": "Модель рассчитана на оснащение производительных игровых и универсальных системных блоков.",
+      "price": "21999.00",
+      "quantity": 20,
+      "image": "products_images/AMD_Ryzen_7_5700X3D.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 27,
+    "fields": {
+      "name": "AMD Ryzen 7 7800X3D",
+      "description": "8-ядерный процессор для игровых компьютеров и производительных универсальных ПК.",
+      "price": "47249.00",
+      "quantity": 15,
+      "image": "products_images/AMD_Ryzen_7_7800X3D.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 28,
+    "fields": {
+      "name": "AMD Ryzen 9 7950X3D",
+      "description": "Модель поддерживает одновременную обработку до 32 вычислительных потоков данных.",
+      "price": "65999.00",
+      "quantity": 10,
+      "image": "products_images/AMD_Ryzen_9_7950X3D.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 29,
+    "fields": {
+      "name": "MSI PRO H610M-E DDR4",
+      "description": "Эта материнская плата является надежной основой для построения офисного или домашнего ПК с универсальной производительностью.",
+      "price": "7999.00",
+      "quantity": 30,
+      "image": "products_images/MSI_PRO_H610M_E.jpg",
+      "category": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 30,
+    "fields": {
+      "name": "GIGABYTE B760M DS3H DDR4",
+      "description": "Данная материнская плата является надежной основой для сборки рабочей станции или мультимедийного ПК.",
+      "price": "12199.00",
+      "quantity": 25,
+      "image": "products_images/GIGABYTE_B760M_DS3H.jpg",
+      "category": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 31,
+    "fields": {
+      "name": "ASRock Z790 Pro RS",
+      "description": "Оригинальный стиль и технологичность высокого уровня.",
+      "price": "22999.00",
+      "quantity": 20,
+      "image": "products_images/ASRock_Z790_Pro_RS.jpg",
+      "category": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 32,
+    "fields": {
+      "name": "MSI PRO A620M-E DDR5",
+      "description": "Данная материнская плата из профессиональной линейки обладает свойствами производительной и стабильной основы для системного блока.",
+      "price": "9499.00",
+      "quantity": 10,
+      "image": "products_images/MSI_PRO_A620M_E.jpg",
+      "category": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 33,
+    "fields": {
+      "name": "GIGABYTE B650M GAMING X AX",
+      "description": "Данная материнская плата из игровой серии создана для обеспечения мощного вычислительного потенциала при запуске требовательных компьютерных игр.",
+      "price": "22999.00",
+      "quantity": 15,
+      "image": "products_images/GIGABYTE_B650M_GAMING_X_AX.jpg",
+      "category": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 34,
+    "fields": {
+      "name": "GIGABYTE X870 AORUS ELITE WIFI7",
+      "description": "Данная материнская плата представляет собой высококачественное решение для сборки производительных ПК на базе процессоров AMD Ryzen с сокетом AM5.",
+      "price": "44999.00",
+      "quantity": 10,
+      "image": "products_images/GIGABYTE_X870_AORUS_ELITE_WIFI7.jpg",
+      "category": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 35,
+    "fields": {
+      "name": "Patriot Viper Elite II 32 ГБ",
+      "description": "Оперативная память создана специально для геймерских аппаратных платформ ПК.",
+      "price": "9699.00",
+      "quantity": 20,
+      "image": "products_images/Patriot_Viper_Elite_II_32_GB.jpg",
+      "category": 9
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 36,
+    "fields": {
+      "name": "G.Skill Trident Z Neo RGB 32 ГБ",
+      "description": "Данная оперативная память предназначена для совместного использования с процессорами AMD Ryzen.",
+      "price": "15499.00",
+      "quantity": 15,
+      "image": "products_images/G.Skill_Trident_Z_Neo_RGB_32_GB.jpg",
+      "category": 9
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 37,
+    "fields": {
+      "name": "Kingston FURY Beast Black RGB 32 ГБ",
+      "description": "Оперативная память с многоцветным освещением разработана специально для настольных ПК игрового уровня.",
+      "price": "17499.00",
+      "quantity": 10,
+      "image": "products_images/Kingston_FURY_Beast_Black_RGB_32_GB.jpg",
+      "category": 9
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 38,
+    "fields": {
+      "name": "ADATA XPG Lancer 64 ГБ",
+      "description": "Набор ориентирован на комплектацию производительных игровых компьютеров.",
+      "price": "30999.00",
+      "quantity": 5,
+      "image": "products_images/ADATA_XPG_Lancer_64_GB.jpg",
+      "category": 9
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 39,
+    "fields": {
+      "name": "LIAN LI LANCOOL III RGB",
+      "description": "Корпус черного цвета представлен в формате Mid-Tower и подходит для сборки мощного игрового ПК.",
+      "price": "17799.00",
+      "quantity": 20,
+      "image": "products_images/LIAN_LI_LANCOOL_III_RGB.jpg",
+      "category": 10
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 40,
+    "fields": {
+      "name": "Cougar PANZER MAX-G",
+      "description": "Корпус серьезного уровня, предназначенный для сборки системного блока очень высокого класса.",
+      "price": "17699.00",
+      "quantity": 10,
+      "image": "products_images/Cougar_PANZER_MAX_G.jpg",
+      "category": 10
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 41,
+    "fields": {
+      "name": "ARDOR GAMING Crystal CC1 White",
+      "description": "Корпус с дизайном в белом цвете отличается значительной площадью остекления и украшен встроенной в вентиляторы адресуемой RGB подсветкой.",
+      "price": "6699.00",
+      "quantity": 15,
+      "image": "products_images/ARDOR_GAMING_Crystal_CC1_White.jpg",
+      "category": 10
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 42,
+    "fields": {
+      "name": "MONTECH KING 95 PRO",
+      "description": "Корпус подходит для сборки мощного игрового компьютера или производительного универсального ПК.",
+      "price": "18999.00",
+      "quantity": 25,
+      "image": "products_images/MONTECH_KING_95_PRO.jpg",
+      "category": 10
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 43,
+    "fields": {
+      "name": "DEEPCOOL PF750",
+      "description": "Блок питания с мощностью 750 Вт достаточно производителен, чтобы обеспечивать питание всем модулям игрового системного блока.",
+      "price": "6299.00",
+      "quantity": 20,
+      "image": "products_images/DEEPCOOL_PF750.jpg",
+      "category": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 44,
+    "fields": {
+      "name": "MONTECH GAMMA II 750",
+      "description": "Блок питания предназначен для сборки мощных настольных компьютеров и гарантирует высокий уровень надежности на протяжении длительной эксплуатации.",
+      "price": "9999.00",
+      "quantity": 15,
+      "image": "products_images/MONTECH_GAMMA_II_750.jpg",
+      "category": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 45,
+    "fields": {
+      "name": "Thermaltake Toughpower GF3 850W",
+      "description": "Блок питания с легкостью обеспечит функционирование компонентов мощного игрового ПК или универсального компьютера высокого класса.",
+      "price": "20199.00",
+      "quantity": 10,
+      "image": "products_images/Thermaltake_Toughpower_GF3_850W.jpg",
+      "category": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 46,
+    "fields": {
+      "name": "Apple iPhone 13 128 ГБ",
+      "description": "Смартфон Apple iPhone 13 выделяется оформлением в насыщенном синем цвете и защищенным корпусом по стандарту IP68.",
+      "price": "65999.00",
+      "quantity": 20,
+      "image": "products_images/Apple_iPhone_13_128_ГБ.jpg",
+      "category": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 47,
+    "fields": {
+      "name": "Samsung Galaxy S24 Ultra 256 ГБ",
+      "description": "Смартфон Samsung Galaxy S24 Ultra обладает 8-ядерным процессором и 12 ГБ оперативной памяти.",
+      "price": "116999.00",
+      "quantity": 15,
+      "image": "products_images/Samsung_Galaxy_S24_Ultra_256_GB.jpg",
+      "category": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 48,
+    "fields": {
+      "name": "realme GT7 Pro 512 ГБ",
+      "description": "Флагманский смартфон 2024 года. Процессор Snapdragon 8 Elite. 3X перископ-камера с AI захватом движения.",
+      "price": "99999.00",
+      "quantity": 10,
+      "image": "products_images/realme_GT7_Pro_512_GB.jpg",
+      "category": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 49,
+    "fields": {
+      "name": "Apple MacBook Air M3",
+      "description": "Ноутбук обладает компактным алюминиевым корпусом и идеально подходит для необходимых в работе и развлечениях программ и файлов.",
+      "price": "128499.00",
+      "quantity": 20,
+      "image": "products_images/Apple_MacBook_Air.jpg",
+      "category": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 50,
+    "fields": {
+      "name": "HONOR MagicBook X 16",
+      "description": "Аппаратная платформа с 8-ядерным процессором Intel Core i5-12450H обеспечивает работу компьютера без зависаний при запуске программ и серфинге в сети Интернет.",
+      "price": "54999.00",
+      "quantity": 25,
+      "image": "products_images/HONOR_MagicBook_X_16.jpg",
+      "category": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 51,
+    "fields": {
+      "name": "ASUS TUF Gaming A15",
+      "description": "Ноутбук оснащен процессором AMD Ryzen 5 7535HS с 6 ядрами частотой до 3.3 ГГц и подходит для работы в графических редакторах и для игр.",
+      "price": "79999.00",
+      "quantity": 15,
+      "image": "products_images/ASUS_TUF_Gaming_A15.jpg",
+      "category": 13
+    }
+  }
+]

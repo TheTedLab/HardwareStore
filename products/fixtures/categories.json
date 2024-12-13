@@ -1,0 +1,66 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 6,
+    "fields": {
+      "name": "Процессоры",
+      "description": "Категория для процессоров"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 7,
+    "fields": {
+      "name": "Видеокарты",
+      "description": "Категория для видеокарт"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 8,
+    "fields": {
+      "name": "Материнские платы",
+      "description": "Категория для материнских плат"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 9,
+    "fields": {
+      "name": "Оперативная память",
+      "description": "Категория для оперативной памяти"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 10,
+    "fields": {
+      "name": "Корпуса",
+      "description": "Категория для корпусов"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 11,
+    "fields": {
+      "name": "Блоки питания",
+      "description": "Категория для блоков питания"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 12,
+    "fields": {
+      "name": "Смартфоны",
+      "description": "Категория для смартфонов"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 13,
+    "fields": {
+      "name": "Ноутбуки",
+      "description": "Категория для ноутбуков"
+    }
+  }
+]
